@@ -39,6 +39,3 @@ Project ini cocok untuk:
 ## 👤 Author
 Mr.Rm19 - n3i - ramdan19id@gmail.com
 
-
-```txt
-https://domainkamu.com/track-resi.php
